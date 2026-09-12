@@ -1,0 +1,5 @@
+101,Alice Smith,84
+102,John Mensah,72
+103,Michael Owusu,65
+104,Sarah Addo,55
+105,David Boateng,43
